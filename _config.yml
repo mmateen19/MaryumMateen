@@ -21,7 +21,7 @@
 title: Maryum Mateen
 email: maryummateen19@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hey Babe! (you have a cute butt)
+  Hey Babe!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
